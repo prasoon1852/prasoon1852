@@ -1,6 +1,7 @@
 # Hello, I'm Prasoon Pandey 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=435&lines=Senior+Data+Engineer+|+Cloud+&+AI+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=600&lines=Senior+Data+Engineer+%7C+Analytics+Lead+%26+AI+Enthusiast)
+
 
 I'm a **Senior Data Engineer** with 9+ years of experience designing **scalable data pipelines**, **lakehouse architectures**, and **ETL frameworks**.  
 I specialize in **Azure, Databricks, Microsoft Fabric, GCP, AWS**, and have strong expertise in **PySpark, SQL, Python**, and distributed systems.  
