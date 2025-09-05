@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=435&lines=Senior+Data+Engineer+|+Cloud+&+AI+Enthusiast)
 
-I'm a **Senior Data Engineer** with 8+ years of experience designing **scalable data pipelines**, **lakehouse architectures**, and **ETL frameworks**.  
+I'm a **Senior Data Engineer** with 9+ years of experience designing **scalable data pipelines**, **lakehouse architectures**, and **ETL frameworks**.  
 I specialize in **Azure, Databricks, Microsoft Fabric, GCP, AWS**, and have strong expertise in **PySpark, SQL, Python**, and distributed systems.  
 
 I am **Microsoft Fabric Data Engineer certified**, a **PMP®**, and a **Certified ScrumMaster®**, with experience in **CI/CD, Agile leadership**, and stakeholder engagement.  
@@ -19,7 +19,7 @@ I’m passionate about leveraging **cloud-native technologies and AI** to build 
 ## 💻 Tech Stack
 
 **Cloud & Data Platforms:**  
-Azure Data Factory, Azure Synapse, Databricks, Microsoft Fabric, Apache Spark, AWS, GCP (BigQuery), SQL Server  
+Azure Data Factory, Azure Synapse, Databricks, Microsoft Fabric, Apache Spark, GCP, AWS, SQL Server  
 
 **Business Intelligence:**  
 Power BI, QlikSense, DAX, Self-Service Analytics, Performance Tuning  
