@@ -37,14 +37,11 @@ Data Testing, Validation, Performance Optimization, Confluence
 
 ## 🏆 Certifications
 
-## 🏆 Certifications
-
 [![Microsoft Fabric](https://img.shields.io/badge/Microsoft-Fabric_Data_Engineer-green?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/users/prasoonpandey-0591/credentials/5c1c3d3ad478735f)  
-[![Google Cloud](https://img.shields.io/badge/Google-Cloud_Engineering-4285F4?style=for-the-badge&logo=googlecloud)](YOUR_GCP_CERT_LINK)  
-[![PMP](https://img.shields.io/badge/PMP®-Project_Management-blue?style=for-the-badge&logo=projectdotnet)](YOUR_PMP_CERT_LINK)  
-[![CSM](https://img.shields.io/badge/CSM®-Scrum_Master-orange?style=for-the-badge&logo=scrumalliance)](YOUR_CSM_CERT_LINK)  
-[![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure)](YOUR_AZURE_CERT_LINK)
-
+[![Google Cloud](https://img.shields.io/badge/Google-Cloud_Engineering-4285F4?style=for-the-badge&logo=googlecloud)](https://www.linkedin.com/learning/certificates/73fc17b38be8b6d1c2ed15b89dd57f41078020cc6a0fe8d2b8ac987f04c578b9)  
+[![PMP](https://img.shields.io/badge/PMP®-Project_Management-blue?style=for-the-badge&logo=projectdotnet)](https://www.credly.com/badges/25a89345-b36a-4c40-86fd-8a6b9e6a7833/public_url)  
+[![CSM](https://img.shields.io/badge/CSM®-Scrum_Master-orange?style=for-the-badge&logo=scrumalliance)](https://certification.scrumalliance.org/accounts/1389898-prasoon-pandey/certifications/1619863-csm)  
+[![Databricks Fundamentals](https://img.shields.io/badge/Databricks-Fundamentals-FF6F00?style=for-the-badge&logo=databricks)]([YOUR_DATABRICKS_CERT_LINK](https://credentials.databricks.com/dadf737c-9d99-479a-9902-771c22fd90ff#acc.lBpQKyeZ))
 
 ---
 
