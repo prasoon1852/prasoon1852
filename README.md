@@ -37,11 +37,14 @@ Data Testing, Validation, Performance Optimization, Confluence
 
 ## 🏆 Certifications
 
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft-Fabric_Data_Engineer-green?style=for-the-badge&logo=microsoft)  
-![Google Cloud](https://img.shields.io/badge/Google-Cloud_Engineering-4285F4?style=for-the-badge&logo=googlecloud)  
-![PMP](https://img.shields.io/badge/PMP®-Project_Management-blue?style=for-the-badge&logo=projectdotnet)  
-![CSM](https://img.shields.io/badge/CSM®-Scrum_Master-orange?style=for-the-badge&logo=scrumalliance)  
-![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure)  
+## 🏆 Certifications
+
+[![Microsoft Fabric](https://img.shields.io/badge/Microsoft-Fabric_Data_Engineer-green?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/users/prasoonpandey-0591/credentials/5c1c3d3ad478735f)  
+[![Google Cloud](https://img.shields.io/badge/Google-Cloud_Engineering-4285F4?style=for-the-badge&logo=googlecloud)](YOUR_GCP_CERT_LINK)  
+[![PMP](https://img.shields.io/badge/PMP®-Project_Management-blue?style=for-the-badge&logo=projectdotnet)](YOUR_PMP_CERT_LINK)  
+[![CSM](https://img.shields.io/badge/CSM®-Scrum_Master-orange?style=for-the-badge&logo=scrumalliance)](YOUR_CSM_CERT_LINK)  
+[![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure)](YOUR_AZURE_CERT_LINK)
+
 
 ---
 
